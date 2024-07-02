@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    transition: background-color 0.5s;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    
+}
+
+h2 {
+    font-size: 46px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #2f9bb6;
+    border-radius: 40px;
+    color: #fff;
+    transition: background-color 0.3s;
+    margin-bottom: 20px;
+}
+
+
+
+#colorCode {
+    font-size: 18px;
+    font-weight: bold;
+}
